@@ -1,1 +1,1 @@
-# Java-Spring-MVC-MySql-Application-Vet-Klinik
+# Java-Spring-MVC-MySql-Application-Vet-Clinic Application
