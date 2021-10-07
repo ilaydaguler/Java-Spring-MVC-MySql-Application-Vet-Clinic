@@ -4,7 +4,7 @@
 ## Demo Account Information
 
 | Mail | :arrow_right: | Password | Role |
-| ------------- |:-------------:|:-------------:|
+| ------------- |:-------------:|:-------------:|:-------------:|
 | ```veli@mail.com```| :arrow_right: | ```12345``` | Customer |
 | ```zehra@mail.com```| :arrow_right: | ```12345``` | Admin (can reach the agenda page)|
 | ```serkan@mail.com```| :arrow_right: | ```12345``` | Doctor (can reach the lab page)|
