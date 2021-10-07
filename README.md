@@ -1,4 +1,4 @@
-## Java Spring MVC MySql Vet Clinic Application
+# Java Spring MVC MySql Vet Clinic Application
 
 Spring MVC and Spring Security were used in the veterinary clinical project. The application is designed for veterinary clinics. You can enter the application by becoming a member and logging in. There is a role assigned to each member by default. There are some pages that users can access based on roles. For example, the doctor reaches the lab page and the admin reaches the agenda page. Besides,  Other users can not reach these pages.  Customers and customers' animals can be added, deleted, and listed. In addition, appointments can be created using the calendar. Warehouses and categories can be added or deleted to save products. Products' stocks can be added and products can be sold to customers or purchased from any external supplier. All of these transactions can be listed according to the payment methods made in case of transactions. With the laboratory, the lab results of any animal owned by the client can be recorded along with the x-ray picture. In addition, the statistics of the transactions performed can be displayed.
 
